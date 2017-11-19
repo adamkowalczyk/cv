@@ -47,7 +47,7 @@ As a back end developer, I have touched on every part of the project. I have wor
 
 As a member of a small team my work has benefited from my ability to work independently and hold myself to an extremely high standard, both in terms of realised product and code quality.
 
-### WCRS - Developer
+### WCRS - Developer
 **(07/15 - 11/15)**
 
 Front end development for a major American tech client, working on thousands of pages over 50+ territories. On my own initiative I developed a suite of photoshop scripts to automate and enhance their image asset preparation workflow, saving hundreds of hours of developer/designer time.
