@@ -37,7 +37,7 @@ Employment
 
 ### Photocrowd - Developer
 **(11/15 - present)**
-###[Current Role]
+### [Current Role]
 
 Working in a tight-knit agile team of 2-3 developers, in my time at Photocrowd I have delivered a stream of new site features and project refinements in a truly full stack role. I have managed projects: planning, tasking, and coding entire new sections of the site, taking features from concept to shipped and tested product.
 
@@ -65,7 +65,7 @@ Front end development for a major American tech client, working on thousands of 
 Over the last 7 years I have worked with some of the UK's top Opera companies as a soloist and a chorus member.
 I have performed in venues ranging from the Royal Opera House to a primary school assembly hall.
 
-####Key Skills:
+#### Key Skills:
 * Excellent team-work skills: leading, following.
 * Consistently delivering under high pressure
 * Not being afraid to fail
